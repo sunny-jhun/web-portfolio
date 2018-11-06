@@ -25,6 +25,7 @@ h2{
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: black;
+	text-align: center;
 }
 
 #me{
@@ -42,6 +43,8 @@ h2{
 	font-size:16px;
 	line-height: 1.5;
 	background-color: rgba(51, 51, 51, 0.8);
+	text-align: center;
+	text-align-last: center;
 	/*background-color: #333;*/
     /*opacity: 0.5;*/
 }
